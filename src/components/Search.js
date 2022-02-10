@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import "./SearchStyle.css";
-import SearchField from "react-search-field";
 
 export default function Search() {
   const [subName, setSubName] = useState("");
