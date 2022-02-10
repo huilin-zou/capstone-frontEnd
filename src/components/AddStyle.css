@@ -1,0 +1,40 @@
+.header {
+  width: auto;
+  height: 23px;
+
+  font-family: Lexend Exa;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+
+  color: #228b22;
+  justify-content: center;
+  align-items: center;
+  text-align: center
+}
+
+.add-input {
+  border-radius: 10px;
+  background: #dbd9d9;
+  width: 40%;
+  height: 50px;
+  font-size: 20px;
+}
+
+.add-submit-btn {
+  width: 102px;
+  height: 45px;
+  font-size: 20px;
+  background: #228b22;
+  border-radius: 10px;
+}
+
+.div-input {
+  padding-bottom: 40px;
+}
+
+.submit-btn {
+  position: absolute;
+
+  padding-left: 42%;
+}
